@@ -1,3 +1,31 @@
 body {
     padding: 10px;
+    background-color: antiquewhite;
+}
+
+.container {
+    width: 1148px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.brand {
+    float: left;
+}
+
+.menu {
+    float: right;
+    list-style-type: none;
+}
+
+.container img{
+    display: block;
+    margin: 0 auto;
+}
+
+.menu li{
+    float: left;
+    margin-left: 10px;
+    text-decoration: none;
 }
